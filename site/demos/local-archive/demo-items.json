@@ -2,7 +2,7 @@
   {
     "id": "demo-local-archive-a",
     "file": "main-street-oral-history.mp3",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
     "brief": "Archive entry preserves how the neighborhood\u2019s grocery, church hall, and bus stop formed a shared civic map over three decades. The item connects people, place, and daily rituals in a way that makes the local record searchable and story-rich.",
     "tags": [
@@ -14,15 +14,15 @@
     "demo": true,
     "searchSummary": "oral history, flyers, photo log",
     "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   },
   {
     "id": "demo-local-archive-b",
     "file": "Related main-street-oral-history.mp3",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
-    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
     "tags": [
       "neighborhood",
       "oral-history",
@@ -32,15 +32,15 @@
     "demo": true,
     "searchSummary": "related signals, continuity, reuse",
     "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   },
   {
     "id": "demo-local-archive-c",
     "file": "Follow-up main-street-oral-history.mp3",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
-    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
     "tags": [
       "neighborhood",
       "oral-history",
@@ -50,7 +50,7 @@
     "demo": true,
     "searchSummary": "follow-up, memory, downstream action",
     "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   }
 ]
