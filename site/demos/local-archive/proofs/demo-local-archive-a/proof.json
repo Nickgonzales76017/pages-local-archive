@@ -1,0 +1,17 @@
+{
+  "title": "main-street-oral-history.mp3",
+  "public_url": "https://www.youtube.com/watch?v=LxeCWyC-E6M",
+  "source": {
+    "title": "main-street-oral-history.mp3",
+    "channel": "Reference corpus",
+    "duration_seconds": 189
+  },
+  "transcribe": {
+    "avg_confidence": 0.8068,
+    "avg_logprob": -0.684,
+    "rtf": 0.0625,
+    "segments_total": 17,
+    "segments_hallucinated": 2
+  },
+  "retained_media": false
+}

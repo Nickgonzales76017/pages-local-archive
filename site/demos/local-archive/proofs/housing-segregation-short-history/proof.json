@@ -1,0 +1,17 @@
+{
+  "title": "Housing Segregation and Redlining in America: A Short History | Code Switch | NPR",
+  "public_url": "https://www.youtube.com/watch?v=O5FBJyqfoLM",
+  "source": {
+    "title": "Housing Segregation and Redlining in America: A Short History | Code Switch | NPR",
+    "channel": "NPR",
+    "duration_seconds": 396
+  },
+  "transcribe": {
+    "avg_confidence": 0.8934,
+    "avg_logprob": -0.5,
+    "rtf": 0.0412,
+    "segments_total": 119,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

@@ -1,0 +1,20 @@
+{
+  "type": "language-detection",
+  "languages": [
+    {
+      "language": "en",
+      "confidence": 0.9411,
+      "votes": 9
+    },
+    {
+      "language": "es",
+      "confidence": 0.0027,
+      "votes": 6
+    }
+  ],
+  "tags": [
+    "neighborhood",
+    "oral-history",
+    "follow-up"
+  ]
+}

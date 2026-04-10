@@ -1,0 +1,17 @@
+{
+  "title": "Follow-up main-street-oral-history.mp3",
+  "public_url": "https://www.youtube.com/watch?v=y19sGngoD7M",
+  "source": {
+    "title": "Follow-up main-street-oral-history.mp3",
+    "channel": "Reference corpus",
+    "duration_seconds": 223
+  },
+  "transcribe": {
+    "avg_confidence": 0.7431,
+    "avg_logprob": -0.589,
+    "rtf": 0.0368,
+    "segments_total": 5,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

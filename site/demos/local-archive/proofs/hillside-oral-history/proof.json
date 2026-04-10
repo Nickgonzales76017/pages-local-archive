@@ -1,0 +1,17 @@
+{
+  "title": "Hillside Oral History: Interview with Pastor Anthony Galloway",
+  "public_url": "https://www.youtube.com/watch?v=-Q5iPq5Sam0",
+  "source": {
+    "title": "Hillside Oral History: Interview with Pastor Anthony Galloway",
+    "channel": "Zeitgeist Duluth",
+    "duration_seconds": 378
+  },
+  "transcribe": {
+    "avg_confidence": 0.8557,
+    "avg_logprob": -0.5,
+    "rtf": 0.0433,
+    "segments_total": 48,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

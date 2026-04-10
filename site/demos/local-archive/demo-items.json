@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-local-archive-a",
-    "file": "main-street-oral-history.mp3",
-    "time": "Reference corpus",
+    "id": "hillside-oral-history",
+    "file": "Hillside Oral History: Interview with Pastor Anthony Galloway",
+    "time": "Public origin \u00b7 378s",
     "status": "complete",
-    "brief": "Archive entry preserves how the neighborhood\u2019s grocery, church hall, and bus stop formed a shared civic map over three decades. The item connects people, place, and daily rituals in a way that makes the local record searchable and story-rich.",
+    "brief": "A group of local painters that are part of the painters union that were here to do some work with the hospitals or one of the other big  projects, said, Hey, we wouldn't work on that. There has been a lot of interracial work that's been done in that  regard, especially since the black population has never been above 3% in the history of Duluth. The AME church motto is to it's  administered to the spiritual, social and physical needs of the community. That's and then we take and then the garden also takes that fresh produce and members of the church and local  communities, deliver that fresh produce to folks who may not live close by the church, but still need that fresh produce.",
     "tags": [
-      "neighborhood",
+      "local-history",
       "oral-history",
-      "civic-life"
+      "neighborhood",
+      "community",
+      "archive"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "oral history, flyers, photo log",
-    "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=-Q5iPq5Sam0",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Hillside Oral History: Interview with Pastor Anthony Galloway",
+    "publisher": "Zeitgeist Duluth",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Zeitgeist Duluth on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Community voices become a permanent local archive \u2014 neighborhood stories preserved, searchable, and accessible.",
+    "searchSummary": "local-history, oral-history, neighborhood",
+    "searchIntro": "Search across the local archive records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "archive brief",
+      "clean transcript",
+      "proof bundle",
+      "search across archives"
+    ],
+    "outputNotes": {
+      "archive brief": "Bonfyre extracted the key points from the source audio into a structured archive brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/local-archive/proofs/hillside-oral-history/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/local-archive/proofs/hillside-oral-history/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/local-archive/proofs/hillside-oral-history/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/local-archive/proofs/hillside-oral-history"
   },
   {
-    "id": "demo-local-archive-b",
-    "file": "Related main-street-oral-history.mp3",
-    "time": "Reference corpus",
+    "id": "housing-segregation-short-history",
+    "file": "Housing Segregation and Redlining in America: A Short History | Code Switch | NPR",
+    "time": "Public origin \u00b7 396s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "Many of those suburbs institute rules called covenants  that explicitly forbade selling homes to black people,  and all of this was perfectly legal. Well, the discrimination in housing is the major reason  that black families, up and down the income scale,  have a tiny fraction of the family wealth that white families do,  even white families with less education and lower incomes. It means that people have a lot of unnecessary contact  with the criminal justice system just because of where they live. Blue meant good people like white collar families,  yellow meant a declining area with working-class families,  and red meant detrimental influences.",
     "tags": [
-      "neighborhood",
+      "local-history",
       "oral-history",
-      "related"
+      "neighborhood",
+      "community",
+      "archive"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-local-archive-c",
-    "file": "Follow-up main-street-oral-history.mp3",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "neighborhood",
-      "oral-history",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=O5FBJyqfoLM",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Housing Segregation and Redlining in America: A Short History | Code Switch | NPR",
+    "publisher": "NPR",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: NPR on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Community voices become a permanent local archive \u2014 neighborhood stories preserved, searchable, and accessible.",
+    "searchSummary": "local-history, oral-history, neighborhood",
+    "searchIntro": "Search across the local archive records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "archive brief",
+      "clean transcript",
+      "proof bundle",
+      "search across archives"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One local source becomes part of a searchable archive.",
-    "searchIntro": "One local source becomes part of a searchable archive. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "archive brief": "Bonfyre extracted the key points from the source audio into a structured archive brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/local-archive/proofs/housing-segregation-short-history/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/local-archive/proofs/housing-segregation-short-history/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/local-archive/proofs/housing-segregation-short-history/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/local-archive/proofs/housing-segregation-short-history"
   }
 ]
